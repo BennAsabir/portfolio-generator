@@ -12,10 +12,10 @@ In this module, I used node.js to build a program that creates a GitHub portfoli
 [Link to deployed application](https://bennasabir.github.io/weather-dashboard/)
 
 Image showcasing application running in terminal.
-<img src=./assets/images/screenshot2.png>
+<img src=./src/screenshot2.png>
 <br>
 Image showcasing landing page of application from 'index.html' in the 'dist' folder in the root directory.
-<img src=./assets/images/screenshot3.png>
+<img src=./src/screenshot3.png>
 
 ## Technologies
 Project is created with 
