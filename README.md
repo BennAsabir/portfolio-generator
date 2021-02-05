@@ -9,8 +9,7 @@ In this module, I used node.js to build a program that creates a GitHub portfoli
 
 ## General Info
 In this module, I used node.js to build a program that creates a GitHub portfolio page using the command line to capture user input and place it in a JavaScript function that outputs a finished HTML page.
-[Link to deployed application](https://bennasabir.github.io/weather-dashboard/)
-
+<br>
 Image showcasing application running in terminal.
 <img src=./src/screenshot2.png>
 <br>
