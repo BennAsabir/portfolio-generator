@@ -1,6 +1,5 @@
 # Portfolio-Generator
 A node.js application that generates a portfolio website of github repositories and publishes to new html file.
-In this module, I used node.js to build a program that creates a GitHub portfolio page using the command line to capture user input and place it in a JavaScript function that outputs a finished HTML page.
 
 ## Table Of Content
 * [General Info](#general-info)
